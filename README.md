@@ -1,1 +1,4 @@
-# Log4Shell
+#### Requirements:
+```bash
+pip install -r requirements.txt
+```
